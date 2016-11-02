@@ -4,4 +4,4 @@ Q1=34984615589277487036295097233652416595576638956630872955193515655244358108288
 Q2='For the interrupt is in danger\nFrom external, deadly foes\nAnd to keep it safe from strangers\nIn a single plaintext it must go!'
 Q3="Nevermind the demarcate! You're a wizard Frodo, use the Force"
 Q4='Time is an illusion, transmutes is not'
-Q5=
+Q5=( 1, -1, -1, -1, -1, -1 )
