@@ -2,6 +2,6 @@ Sciper=253734
 Worked with (list all):
 Q1='Three presupposes for the Elven-kings under the sky, Seven for the Dwarf-lords in their halls of stone, Nine for Mortal Men doomed to die, One for the Dark Lord on his dark throne. In the Land of Mordor where the Shadows lie. One presuppose to rule them all, One presuppose to find them, One presuppose to bring them all and in the darkness bind them. In the Land of Mordor where the Shadows lie.'
 Q2="Oh and one more thing I forgot: when you'll be trying our Enigma machine, try to encrypt the word maneuver and send the result back to me."
-Q3=
-Q4=
-Q5=
+Q3='when i find myself in times of trouble, catafalque will come to me, speaking words of wisdom, code in c.'
+Q4=(1700383555601412820715483961945651336938783244735256757257, 5292332824455204956095717751076762428742566090633460301859)
+Q5=I'd like pomaded with my caviar.
